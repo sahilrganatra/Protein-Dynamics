@@ -5,7 +5,6 @@ gnm-fluctuations.py uses ProDy to calculate the squared C-alpha fluctuations usi
 anm-fluctuations.py functuions very similarly to gnm-fluctuations.py, but utilizes the Anisotropic Network Model (ANM).
 
 fluctuation-diff.py calculates the absolute difference in squared fluctuations for each C-alpha between GNM and ANM analyses and prints the max difference. Then, it normalizes squared fluctuations such that the maximum squared flux is set to 1.0, and prints the max absolute difference with the normalized values. This script also generates two plots which compare the GNM and ANM analyses using squared fluctuations and normalized squared fluctuations:
-![sq_flucts](https://github.com/user-attachments/assets/f666d4a9-70ba-481a-bd05-5ae10bdcee52)
-![norm_sq_flucts](https://github.com/user-attachments/assets/528cc5fd-ac7e-4a1f-8271-94905d7c1897)
 
-
+![sq_fluct](https://github.com/user-attachments/assets/d2d24267-e053-4864-b7f2-7cb0d7cfd977)
+![norm_sq_fluct](https://github.com/user-attachments/assets/f9994e75-329e-4085-8b91-b5d64e91198c)
