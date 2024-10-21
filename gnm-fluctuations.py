@@ -1,8 +1,5 @@
 import sys
 from prody import *
-from matplotlib.pylab import *
-
-ion() # turn interactive mode on
 
 def gnm_flux(pdb_id):
 
