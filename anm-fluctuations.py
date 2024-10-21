@@ -1,5 +1,3 @@
-# same format as gnm-flux, except we construct a Hessian matrix
-
 import sys
 from prody import *
 
